@@ -1,3 +1,3 @@
-lampa
+#lampa
 
 content.js
